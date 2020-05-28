@@ -18,7 +18,7 @@ The `json` file should be in the following format. For example file check [ques.
             "Windows",
             "Android"
         ],
-        "ans": 2
+        "ans": 3
     },
     {
         "que": "Is Windows good",
