@@ -1,10 +1,9 @@
 const template = document.createElement("template");
 template.innerHTML = `
-<link href="ttps://sharadcodes.github.io/quizzo_web_component/src/quizzo_styles.css" rel="stylesheet" type="text/css">  
+<link href="https://sharadcodes.github.io/quizzo_web_component/src/quizzo_styles.css" rel="stylesheet" type="text/css">  
 <div class="quizzo">
     <div class="meta">
         <h1 class="name"></h1>
-        <span class="mm"></span> | <span class="pm"></span>
     </div>
     <p class="question"></p>
     <div class="options" id="answers"></div>
