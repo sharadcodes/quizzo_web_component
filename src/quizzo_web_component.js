@@ -22,8 +22,6 @@ class QuizzoWebComp extends HTMLElement {
 
   connectedCallback() {
     this.shadowRoot.querySelector(".name").innerText = this.getAttribute("name");
-    this.shadowRoot.querySelector(".mm").innerText = "MM " + this.getAttribute("mm");
-    this.shadowRoot.querySelector(".pm").innerText = "PM " + this.getAttribute("pm");
     this.counter = 0;
 
     fetch(this.getAttribute("json-file"))
