@@ -2,6 +2,9 @@
 An Open Source web component for your quizzes.
 > Developer: [Sharad Raj](https://github.com/sharadcodes/)
 
+## UI 
+![Quizzo Web Component Snap](https://raw.githubusercontent.com/sharadcodes/quizzo_web_component/master/screenshots/snap.png)
+
 ## [Live Demo](https://sharadcodes.github.io/quizzo_web_component/example/)
 
 ## USAGE
