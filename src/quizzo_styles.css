@@ -1,0 +1,46 @@
+.quizzo * {
+  font-family: monospace !important;
+  text-decoration: none;
+  user-select: none;
+  outline: none;
+}
+
+button {
+  background-color: royalblue;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.mm,
+.pm {
+  font-size: 0.8rem;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+label {
+  padding: 10px 0;
+  display: block;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+label:hover {
+  background-color: lightgray;
+}
+
+.notify {
+  padding: 10px;
+}
