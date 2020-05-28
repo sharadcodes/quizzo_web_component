@@ -6,6 +6,31 @@ An Open Source web component for your quizzes.
 
 ## USAGE
 
+The `json` file should be in the following format. For example file check [ques.json](https://sharadcodes.github.io/quizzo_web_component/example/ques.json)
+
+```json
+[
+    {
+        "que": "Which among the following is not an operating system ?",
+        "opt": [
+            "Linux",
+            "MacOS",
+            "Windows",
+            "Android"
+        ],
+        "ans": 2
+    },
+    {
+        "que": "Is Windows good",
+        "opt": [
+            "Yes",
+            "No"
+        ],
+        "ans": 2
+    }
+]    
+```
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
