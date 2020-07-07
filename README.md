@@ -16,7 +16,7 @@ The `json` file should be in the following format. For example file check [ques.
     {
         "que": "Which among the following is not an operating system ?",
         "opt": [
-            "Linux",
+            "Fedora",
             "MacOS",
             "Windows",
             "Android"
